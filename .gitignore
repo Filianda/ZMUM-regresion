@@ -131,3 +131,5 @@ dmypy.json
 Scripts/
 Lib/
 pyvenv.cfg
+etc/
+share/
